@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="nm"
+          fetch="git://github.com" />
+
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/msm8960-common" name="CyanogenMod/android_device_sony_msm8960-common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/huashan" name="hrithik21/android_device_sony_huashan" remote="nm" revision="cm-12.1" />
+
+<project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="nm" revision="cm-12.1" />
+
+<project path="kernel/sony/msm8x60" name="CyanogenMod/android_Kernel_sony_msm8x60" remote="nm" revision="cm-12.1" />
+
+<project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="nm" revision="cm-12.1" />
+
+<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="nm" revision="cm-12.1" />
+ 
+</manifest>
